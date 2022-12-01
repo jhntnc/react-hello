@@ -1,7 +1,6 @@
 import React from "react";
 
 //include images into your bundle
-import rigoImage from "../../img/rigo-baby.jpg";
 import Principal from "./principal.jsx";
 import Footer from "./Footer.jsx";
 import Menu from "./Menu.jsx";
