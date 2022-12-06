@@ -11,10 +11,10 @@ import Footer from "./Footer.jsx";
 const Home = () => {
 	return (
 		<div className="container">
-			<Menu/>
-			<Principal/>
-			<Card/>
-			<Footer/>
+			<Menu start="Start Bootstrap"/>
+			<Principal welcome="A Warm Welcome!"/>
+			<Card image="https://www.nbvplc.com/images/blog/1.jpg"/>
+			<Footer footer="© 2022, 4Geeks, PT-32, Chile"/>
 		</div>
 	);
 };
